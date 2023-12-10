@@ -1,0 +1,6 @@
+# IDE projects
+.idea/
+.vscode/
+.fleet/
+
+/target
